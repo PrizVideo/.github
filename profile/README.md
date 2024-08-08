@@ -5,6 +5,7 @@ Main repository:
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/PrizVideo/PrizVideo-Main)
 ![GitHub license](https://img.shields.io/github/license/PrizVideo/PrizVideo-Main)
 ![GitHub last commit](https://img.shields.io/github/last-commit/PrizVideo/PrizVideo-Main)
+
 Test repository:
 ![GitHub issues](https://img.shields.io/github/issues/PrizVideo/PrizVideo-Test)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/PrizVideo/PrizVideo-Test)
@@ -30,9 +31,6 @@ PrizVideo is a cutting-edge online video broadcasting platform that's reshaping 
 ### API Documentation
 [Coming Soon]
 
-### SDK & Integration Guides
-[Coming Soon]
-
 ## Business Solutions
 
 ### Enterprise Integration
@@ -50,14 +48,15 @@ Amplify your reach. Partner with PrizVideo to showcase your content to our growi
 ## Beta Access
 
 We're currently in beta. To join:
-1. Email us at beta@prizvideo.com
+1. Email us at callendv1889@gmail.com
 2. Receive your exclusive access code
 3. Activate your account and start exploring
 
 ## Contact Us
 
-- **General Inquiries**: info@prizvideo.com
-- **Business Partnerships**: partnerships@prizvideo.com
-- **Technical Support**: support@prizvideo.com
+- **General Inquiries**: callendv1889@gmail.com
+- **Business Partnerships**: callendv1889@gmail.com
+- **Technical Support**: callendv1889@gmail.com
+- (In other words,  just send an email over to callendv1889@gmail.com for anything PrizVideo related. We try to respond as quick as possible.)
 
 Join us in shaping the future of online video broadcasting with PrizVideo.
