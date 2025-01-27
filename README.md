@@ -54,9 +54,6 @@ We're currently in beta. To join:
 
 ## Contact Us
 
-- **General Inquiries**: callendv1889@gmail.com
-- **Business Partnerships**: callendv1889@gmail.com
-- **Technical Support**: callendv1889@gmail.com
-- (In other words,  just send an email over to callendv1889@gmail.com for anything PrizVideo related. We try to respond as quick as possible.)
+Snd an email over to callendv1889@gmail.com for anything PrizVideo related. We try to respond as quick as possible.
 
 Join us in shaping the future of online video broadcasting with PrizVideo.
