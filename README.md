@@ -1,4 +1,4 @@
-# PrizVideo: Revolutionizing Online Video Broadcasting
+# PrizVideo
 
 Main repository:
 ![GitHub issues](https://img.shields.io/github/issues/PrizVideo/PrizVideo-Main)
@@ -14,46 +14,47 @@ Test repository:
 
 ## About PrizVideo
 
-PrizVideo is a cutting-edge online video broadcasting platform that's reshaping the digital content landscape. Our mission is to provide a superior, ad-free viewing experience powered by advanced recommendation algorithms.
+PrizVideo is an online video platform built to keep things simple and ad-free. The focus is on making it easy to watch and share videos without all the extra noise.
 
 ## Key Features
 
-1. **Ad-Free Experience**: Enhance user engagement with uninterrupted viewing.
-2. **Smart Recommendations**: Leverage our proprietary algorithm to deliver personalized content.
-3. **Frictionless Viewing**: Allow users to watch, like, and comment without account creation.
-4. **Streamlined Uploads**: Offer a simple upload process for content creators with free accounts.
-5. **Organization Accounts**: Provide specialized features for businesses and institutions.
-6. **Embeddable Player**: Increase reach with our easy-to-integrate video player.
-7. **Orbito 2.0 Search Engine**: Empower users with precise video search capabilities.
+1. **Ad-Free Experience**: Watch videos without interruptions.
+2. **Smart Recommendations**: Get suggestions based on what you actually watch.
+3. **Frictionless Viewing**: Watch, like, and comment without needing an account.
+4. **Streamlined Uploads**: Upload videos with a free account, no complicated processes required.
+5. **Organization Accounts**: Options for teams, businesses, and institutions.
+6. **Embeddable Player**: Easily add videos to your own site.
+7. **Orbito 2.0 Search Engine**: Find videos quickly without digging around.
 
 ## For Developers
 
 ### API Documentation
-[Coming Soon]
+Coming soon.
 
 ## Business Solutions
 
 ### Enterprise Integration
-Seamlessly incorporate PrizVideo into your corporate infrastructure. Contact our sales team for custom solutions.
+PrizVideo can be integrated into your existing setup for internal use, training, or content sharing. Reach out if you need something custom.
 
 ### Content Partnerships
-Amplify your reach. Partner with PrizVideo to showcase your content to our growing user base.
+If you want to share your content with a wider audience, you can partner with PrizVideo as the platform grows.
 
 ## Join the PrizVideo Ecosystem
 
-- **Content Creators**: Unleash your creativity on a platform that values quality over quantity.
-- **Viewers**: Discover content tailored to your interests, free from disruptive advertisements.
-- **Businesses**: Leverage our platform for internal communications, training, or customer engagement.
+- **Content Creators**: Share your work on a platform that focuses on quality.
+- **Viewers**: Find content that fits your interests without ads getting in the way.
+- **Businesses**: Use PrizVideo for communication, training, or audience engagement.
 
 ## Beta Access
 
-We're currently in beta. To join:
-1. Email us at callendv1889@gmail.com
-2. Receive your exclusive access code
-3. Activate your account and start exploring
+PrizVideo is currently in beta. To join:
 
-## Contact Us
+1. Email callendv1889@gmail.com
+2. Wait for your access code
+3. Activate your account and start using the platform
 
-Snd an email over to callendv1889@gmail.com for anything PrizVideo related. We try to respond as quick as possible.
+## Contact
 
-Join us in shaping the future of online video broadcasting with PrizVideo.
+Send an email to callendv1889@gmail.com for anything related to PrizVideo. We try to respond as quickly as possible.
+
+PrizVideo is still growing, and there is more to come.
